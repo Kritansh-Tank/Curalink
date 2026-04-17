@@ -22,6 +22,12 @@ Curalink is a full-stack MERN application designed to act as a deep health resea
 
 ---
 
+## User Interface
+
+![Curalink](assets/curalink.png)
+
+---
+
 ## 🏁 Getting Started
 
 ### Prerequisites
