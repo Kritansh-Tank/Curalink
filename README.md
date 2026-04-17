@@ -48,7 +48,7 @@ Curalink is a full-stack MERN application designed to act as a deep health resea
    ```bash
    cd server
    npm install
-   # Create .env (already provided in the root)
+   # Create .env
    npm run dev
    ```
 
