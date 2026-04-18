@@ -40,7 +40,7 @@ Curalink is a full-stack MERN application designed to act as a deep health resea
 
 1. **Clone the repository**:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/Kritansh-Tank/Curalink.git
    cd Curalink
    ```
 
