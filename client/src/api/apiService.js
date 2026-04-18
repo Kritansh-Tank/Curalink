@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'http://localhost:5000/api',
+    baseURL: 'https://curalink-gc3s.onrender.com/api',
     headers: { 'Content-Type': 'application/json' },
     timeout: 180000, // 3 min for LLM
 });
